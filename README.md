@@ -1,4 +1,4 @@
-# Hyper Grid ⚡
+# Hyper Grid
 
 A modern, headless, plugin-based React data grid built for performance and extensibility.
 
